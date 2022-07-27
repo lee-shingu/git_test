@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+      <loc>https://www.aesop.com/static/products/ko-KR.xml</loc>
+    </sitemap>
+  <sitemap>
+      <loc>https://www.aesop.com/static/categories/ko-KR.xml</loc>
+    </sitemap>
+  <sitemap>
+      <loc>https://www.aesop.com/static/stores/ko-KR.xml</loc>
+    </sitemap>
+  <sitemap>
+    <loc>https://www.aesop.com/static/pages/ko-KR.xml</loc>
+  </sitemap>
+</sitemapindex>
